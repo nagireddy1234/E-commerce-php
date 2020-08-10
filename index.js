@@ -3,7 +3,10 @@ $(document).ready(function(){
   // banner owl carousel
   $("#banner-area .owl-carousel").owlCarousel({
       dots: true,
-      items: 1
+      items: 1,
+      margin: 10,
+      nav: true,
+     navText:["<div class='nav-btn prev-slide'></div>","<div class='nav-btn next-slide'></div>"]
   });
 
   // top sale owl carousel
