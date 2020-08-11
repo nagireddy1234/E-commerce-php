@@ -2,11 +2,11 @@
 include('header.php');
 
 /*  include cart */
-include ('./Template/_cart-template.php');
+include ('./components/cart-temp.php');
 /*  include cart */
 
 /*  include new phones section  */
-include ('./Template/_new-phones.php');
+include ('./components/new-phones.php');
 /*  include new phones section  */
 ?>
 
