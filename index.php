@@ -7,27 +7,27 @@
 <?php
 
     /*  include banner area  */
-        include ('./components/banner-area.php');
+        include ('Template/_banner-area.php');
     /*  include banner area  */
 
     /*  include top sale section */
-        include ('./components/top-sale.php');
+        include ('Template/_top-sale.php');
     /*  include top sale section */
 
     /*  include special price section  */
-        include ('./components/special-price.php');
+         include ('Template/_special-price.php');
     /*  include special price section  */
 
     /*  include banner ads  */
-        include ('./components/banner-ads.php');
+        include ('Template/_banner-ads.php');
     /*  include banner ads  */
 
     /*  include new phones section  */
-        include ('./components/new-phones.php');
+        include ('Template/_new-phones.php');
     /*  include new phones section  */
 
     /*  include blog area  */
-         include ('./components/blogs.php');
+         include ('Template/_blogs.php');
     /*  include blog area  */
 
 ?>
